@@ -1,2 +1,2 @@
-ruby_projects
-=============
+sinatra-blog
+============
