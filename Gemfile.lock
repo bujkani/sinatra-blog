@@ -1,3 +1,4 @@
+=begin
 GEM
   remote: https://rubygems.org/
   specs:
@@ -22,3 +23,4 @@ DEPENDENCIES
   sequel
   sinatra
   sqlite3
+=end
